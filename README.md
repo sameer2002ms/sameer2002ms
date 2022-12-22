@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mohd Sameer
-- 👀 I’m interested in coding
+- 👋 Hi, My name is Mohd Sameer
+- 👀 Currently persuing my B.tech degree from KIIT University, Bhubneswar
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking for an internship to enhance my coding skill
 - 📫 How to reach me sameer2002.ms@gmail.com
